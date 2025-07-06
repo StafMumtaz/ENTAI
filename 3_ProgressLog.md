@@ -1,69 +1,6 @@
 # Progress Log
 
-- $\text{Additional Resources}$
-    - **$\text{Summary for Mohsin}$**
-        
-        I’m working on a paper using AI this summer to see the accuracy of diagnosis and treatment recommendations from an a retrieval augmented AI model trained on a bunch of ENT scientific papers and clinical data. It looks at a bunch of patient parameters like their sinonasal microbiome and presumably also information from their chart to make the recommendation, maybe you know about this project since you said the department is small but some PhDs are helping make the model and then I guess I’ll be collecting samples and I’ll do the testing on its accuracy. 
-        
-        Until then, I wanted to get a lay of the land on the use of AI in our subspecialty. I was going to do a paper on AI use in ENT, but there were already several reviews that did that exactly. I was going to narrow it down to Natural Language Processing in rhinology, but not enough papers existed, so I settled with a review of natural language processing in ENT. I just thought I’d do the set of all papers on pubmed, its seems like the perfect number for a review - its like 80 which is way too many to read, so I’d thought I’d read 80 abstracts, find 20 papers that seem important (which works because most of them are pretty boring and the same) and then mostly zero in on those. 
-        
-        No one’s helping me with this, Dr. Roberts seems busy, I just thought I’d do it and get help with people that also would let me work on something in the future. So far, I got the list of abstracts I need to read together, As I read them I’m rating them based on the likelihood they’re worth reading the full manuscript. I’m making like one anki card per abstract just so i don’t forget what I thought about each. After reading, I want to write something like this rough outline
-        
-        - Outline recommended by Chat
-            1. **Title Page** (1 page)
-                - Descriptive title
-                - Your name and affiliation
-                - Contact information
-            2. **Abstract** (250-300 words, structured)
-                - Background
-                - Methods
-                - Results/Findings
-                - Conclusion
-            3. **Introduction** (500-600 words, ~2 pages)
-                - Background on rhinology and the emerging role of AI
-                - Importance of the topic
-                - Statement of purpose and scope
-                - Research question
-            4. **Methods** (400-500 words, ~1.5 pages)
-                - Search strategy and databases used
-                - Inclusion/exclusion criteria
-                - Data extraction approach
-                - Framework for categorization
-            5. **Results/Findings** (1,500-2,000 words, ~6-7 pages)
-                - Subsection for each clinical application category:
-                    - AI in rhinologic diagnosis (400-500 words)
-                    - AI in treatment selection (400-500 words)
-                    - AI in outcome prediction (300-400 words)
-                    - AI in surgical guidance (300-400 words)
-                - Each subsection should describe methodologies, performance metrics, and validation status
-            6. **Discussion** (600-800 words, ~2-3 pages)
-                - Summary of major findings
-                - Clinical implications
-                - Limitations of your review
-                - Brief mention of perceived gaps (even without deep analysis)
-            7. **Conclusion** (150-200 words, ~0.5 page)
-                - Concise summary of the state of AI in rhinology
-            8. **Tables and Figures** (2-3 pages)
-                - Table 1: Summary of included studies
-                - Table 2: Performance metrics comparison
-                - Figure 1: PRISMA flow diagram of study selection
-                - Figure 2: Types of AI methodologies identified
-            9. **References** (40-50 references, ~2-3 pages)
-                - Follow a standard medical journal format (Vancouver style is common)
-        
-        This outline might be too long, the reviews I read for AI in ENT were way shorter so its still kind of an open question. 
-        
-        There’s a few areas along the way that I can imagine a second author or something could contribute. I do think I need to read every abstract on my own to get the info I’d need to notice any interesting trends, but there are sort of marginal analyses/contributions that I could use along the way. For example, I use Claude 3.7 API to read through the original ~180 possible papers and then discretely categorize them as either valid or invalid based on parameters I specified for this study. While I work on the project, if someone just did a statistical test to check the accuracy of Claude in making this decision, I could include that in the methods and it would help validate the selection criteria for the papers. There are other versions of this, like even if I end up doing the bulk of the reading, once I categorize papers into classes of usage, someone else could do the analysis or charts of the classes, frequency of usage over time, etc. 
-        
-        Since its just a review I’m sure it’ll work as a pub. I haven’t brought it up to anyone yet, I thought it would be sick to just like hand it in done. Below, I go through some of the steps I’ve taken to just land where I’m at with the list of full papers. 
-        
         Here is the link to the google sheets page where I’m reading abstracts and rating them. In column H, I place a 1 along papers that I can see myself reading all the way through, along with comments. https://docs.google.com/spreadsheets/d/1vNf1ti7D969UbPPMl8MrlMtOFUSxt1lP6hmMga4kZ_k/edit?usp=sharing
-        
-    
-    [Code Used](https://www.notion.so/Code-Used-20c6c084d76880d6bc70f15eb284646c?pvs=21)
-    
-    [Scrap](https://www.notion.so/Scrap-20b6c084d7688083b121d67652ed7b52?pvs=21)
-    
 
 > This is a paper on *natural language processing* in *otolaryngology* broadly, seems to have the right amount of papers in the field
 > 
